@@ -1,0 +1,55 @@
+name: Telegram Deal Poster
+
+on:
+  schedule:
+    - cron: "5 * * * *"      # every hour at :05 (GitHub may start a few minutes late)
+  workflow_dispatch:          # "Run workflow" button for manual/test runs
+    inputs:
+      count:
+        description: "How many posts this run (blank = use POSTS_PER_HOUR)"
+        required: false
+        default: ""
+      force:
+        description: "Ignore posting hours"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write             # lets the bot save posted.txt
+
+concurrency:
+  group: telegram-poster
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Post next batch
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          SHEET_CSV_URL: ${{ secrets.SHEET_CSV_URL }}
+          POSTS_PER_HOUR: ${{ github.event.inputs.count || vars.POSTS_PER_HOUR }}
+          START_HOUR: ${{ vars.START_HOUR }}
+          END_HOUR: ${{ vars.END_HOUR }}
+          REPOST_HOURS: ${{ vars.REPOST_HOURS }}
+          FORCE_RUN: ${{ github.event.inputs.force }}
+        run: python poster.py
+
+      - name: Save posted list
+        if: always()
+        run: |
+          git config user.name "deal-bot"
+          git config user.email "deal-bot@users.noreply.github.com"
+          git add posted.txt
+          git diff --cached --quiet || (git commit -m "Posted batch $(date -u +%F_%H%M)" && git pull --rebase && git push)
