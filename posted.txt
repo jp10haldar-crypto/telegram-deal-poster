@@ -69,7 +69,6 @@
 1790148423|https://www.flipkart.com/edley-allan-women-kurta-palazzo-set/p/itmd1fffc1e0167a?pid=ETHHPJSGUZGHWAFN|554
 1790148427|https://www.flipkart.com/raisechic-round-neck-women-blouse/p/itmd4cb699694e09?pid=BLOGUPF2NRY9GGZW|180
 1790148431|https://www.flipkart.com/azreen-women-ethnic-top-pant-set/p/itm9f020ff72f5e8?pid=ETHHMYHHGEYRDCUY|517
-1790148434|https://www.flipkart.com/rk-creation-embroidered-berhampuri-pure-silk-saree/p/itm192acb0abd23d?pid=SARHG3HDJDPT8GWS|811
 1790148438|https://www.flipkart.com/atibha-fashion-round-neck-women-blouse/p/itmb8e82fbd410a3?pid=BLOH9U54ZF4YDGYR|180
 1790148442|https://www.flipkart.com/siddheshwar-creation-embroidered-kurta-palazzo-dupatta-set/p/itmafbe924239d25?pid=SWDHPBVZ4YKN2J5W|978
 1790148445|https://www.flipkart.com/clothi-fab-women-printed-straight-kurta/p/itmfcba2d9e961b3?pid=KTAHQ998CVVP2YGV|339
@@ -101,7 +100,6 @@
 1790148540|https://www.flipkart.com/rinaaz-women-kurta-pant-dupatta-set/p/itmd470b9b96fbbf?pid=ETHHMUW2GHRFPGZD|967
 1790148544|https://www.flipkart.com/tomofon-women-ethnic-top-palazzo-dupatta-set/p/itm8131d5de53c86?pid=ETHHHGHBDVYHD4RA|1265
 1790148547|https://www.flipkart.com/jatsy-women-printed-straight-kurta/p/itmb5729a7f71850?pid=KTAHNNYB8TTDFKYN|333
-1790148551|https://www.flipkart.com/bk-collection-printed-bollywood-silk-blend-saree/p/itmb75720d64678e?pid=SARHZZHH7SBCVE5Y|849
 1790148554|https://www.flipkart.com/atibha-fashion-u-neck-women-blouse/p/itmeafa3ba910bb6?pid=BLOH3BCZYEQGBNPR|159
 1790148558|https://www.flipkart.com/ramsetu-women-kurta-palazzo-set/p/itm0cd6e9085b087?pid=ETHHPH33KSTF6RHC|451
 1790148562|https://www.flipkart.com/ramaneey-women-printed-straight-kurta/p/itmebdb250cf0968?pid=KTAHPP8UVUPMXBH5|355
@@ -262,3 +260,5 @@
 1790234282|https://www.flipkart.com/saricholi-printed-bollywood-silk-blend-saree/p/itmda8c0eb762b88?pid=SARHZBR62ZGZGYYW|1199
 1790234286|https://www.flipkart.com/yug-art-printed-embellished-bollywood-silk-blend-saree/p/itme2ca958f6f322?pid=SARHQNNCEKZFDEZR|1199
 1790234289|https://www.flipkart.com/tigersnake-embellished-daily-wear-georgette-saree/p/itmb2bfad02fbcb5?pid=SARHF2G6GKCXFEQX|348
+1790255894|https://www.flipkart.com/rk-creation-embroidered-berhampuri-pure-silk-saree/p/itm192acb0abd23d?pid=SARHG3HDJDPT8GWS|811
+1790255898|https://www.flipkart.com/bk-collection-printed-bollywood-silk-blend-saree/p/itmb75720d64678e?pid=SARHZZHH7SBCVE5Y|849
