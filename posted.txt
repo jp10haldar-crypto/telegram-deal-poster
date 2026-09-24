@@ -8,7 +8,6 @@
 1790135102|https://www.flipkart.com/tranav-with-device-women-kurta-pant-set/p/itmc16e8b44db944?pid=ETHHQGWCW7DYEAFX|460
 1790135106|https://www.flipkart.com/drizzle-women-kurti-pant-set/p/itmfad6c568d0255?pid=ETHHZFHDUZGQWZFU|448
 1790135109|https://www.flipkart.com/zs-textile-women-floral-print-straight-kurta/p/itm1aff43291b664?pid=KTAHMHTRQHYWFVEG|357
-1790135113|https://www.flipkart.com/yug-art-printed-embellished-bollywood-silk-blend-saree/p/itme2ca958f6f322?pid=SARHQNNCEKZFDEZR|1199
 1790135117|https://www.flipkart.com/sangouri-printed-kurta-patiala-dupatta-set/p/itm938b8ad55f0a9?pid=SWDHPR8ARABABG4H|763
 1790135121|https://www.flipkart.com/aneritexarc-embroidered-kurta-trouser-pant-dupatta-set/p/itmb5b20b551248a?pid=SWDHBNQCNWZ3QHC7|405
 1790135124|https://www.flipkart.com/ragini-enterprises-women-printed-anarkali-kurta/p/itm5a58929d8e4d4?pid=KTAGWKF8RFHRBGSX|244
@@ -30,7 +29,6 @@
 1790135182|https://www.flipkart.com/fashion-fusion-women-kurti-palazzo-dupatta-set/p/itmd2fe9341635b6?pid=ETHHPZBE8FFXHGGW|722
 1790135186|https://www.flipkart.com/new-ethnic-4-you-embroidered-kurta-salwar-dupatta-set/p/itmf150acf7e60b8?pid=SWDH9A26J9GV5RXX|582
 1790135190|https://www.flipkart.com/lascaux-women-floral-print-straight-kurta/p/itm900e234404163?pid=KTAHPMYTBYGAG4CG|323
-1790135193|https://www.flipkart.com/tigersnake-embellished-daily-wear-georgette-saree/p/itmb2bfad02fbcb5?pid=SARHF2G6GKCXFEQX|348
 1790135197|https://www.flipkart.com/jodaa-women-printed-anarkali-kurta/p/itmd585d44384963?pid=KTAHQH6MEKZCH7VJ|433
 1790135201|https://www.flipkart.com/fabhuman-women-kurta-pant-set/p/itm169923acb8a29?pid=ETHHZZFGACEBHJWP|556
 1790135204|https://www.flipkart.com/klosia-women-kurta-pant-dupatta-set/p/itm4d382eb9ec8f8?pid=ETHHPRHYHBPSRFHK|838
@@ -44,7 +42,6 @@
 1790135233|https://www.flipkart.com/aneritexarc-embroidered-kurta-trouser-pant-dupatta-set/p/itmb5b20b551248a?pid=SWDHBNQCV3MWGTGP|455
 1790135237|https://www.flipkart.com/fab-empire-women-kurta-salwar-dupatta-set/p/itm8a14cdcb6af17?pid=ETHHPNYNVZAHUV2A|498
 1790135241|https://www.flipkart.com/lyneth-round-neck-women-blouse/p/itm6637370e6519d?pid=BLOHZ6T8WQ3QGFME|141
-1790135244|https://www.flipkart.com/saricholi-printed-bollywood-silk-blend-saree/p/itmda8c0eb762b88?pid=SARHZBR62ZGZGYYW|1199
 1790135248|https://www.flipkart.com/lyneth-round-neck-women-blouse/p/itmc729d37aeb8c4?pid=BLOHZ6T5JQQYRGTG|143
 1790135251|https://www.flipkart.com/sulavra-embroidered-kurta-trouser-pant-dupatta-set/p/itm479ce9569e21d?pid=SWDHPNFZBVVRUGZB|863
 1790135255|https://www.flipkart.com/anjiki-women-kurti-pant-dupatta-set/p/itm83f557ed43c74?pid=ETHHPDTMXAYMBYBF|455
@@ -262,3 +259,6 @@
 1790187592|https://www.flipkart.com/tasrika-embroidered-embellished-bollywood-georgette-saree/p/itm565cb48828587?pid=SARHNNTSPGBC8JTX|1467
 1790187595|https://www.flipkart.com/tasrika-embroidered-bollywood-chiffon-saree/p/itm4ff0b8b3d84ef?pid=SARHNNSZHPFSHGTD|992
 1790187599|https://www.flipkart.com/tasrika-woven-bollywood-silk-blend-saree/p/itm372e0975ee57e?pid=SARHZ5EYZWNZEW4P|1267
+1790234282|https://www.flipkart.com/saricholi-printed-bollywood-silk-blend-saree/p/itmda8c0eb762b88?pid=SARHZBR62ZGZGYYW|1199
+1790234286|https://www.flipkart.com/yug-art-printed-embellished-bollywood-silk-blend-saree/p/itme2ca958f6f322?pid=SARHQNNCEKZFDEZR|1199
+1790234289|https://www.flipkart.com/tigersnake-embellished-daily-wear-georgette-saree/p/itmb2bfad02fbcb5?pid=SARHF2G6GKCXFEQX|348
