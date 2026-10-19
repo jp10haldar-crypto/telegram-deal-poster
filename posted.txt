@@ -58,14 +58,6 @@
 1792293969|https://www.flipkart.com/shreeshyam-anarkali-gown/p/itm397f63dca12af?pid=GWNHAGE7MGCGFBZR|414
 1792293973|https://www.flipkart.com/rd-fab-flared-a-line-gown/p/itm4d32b23005347?pid=GWNHFZUJS5HVAY9B|359
 1792293977|https://www.flipkart.com/satlok-creation-anarkali-gown/p/itm05cb819ad631c?pid=GWNH9B6HU7EXFCFB|430
-1792312601|https://www.flipkart.com/madfury-anarkali-gown/p/itmf7f8fd129da36?pid=GWNHF8YYEMHVUPYB|320
-1792312604|https://www.flipkart.com/murli-kurti-flared-a-line-gown/p/itm300924e3d1bc4?pid=GWNGHU2J2VPETWXG|364
-1792312608|https://www.flipkart.com/westorio-anarkali-gown/p/itm570b6a75aa109?pid=GWNHM8T7FT5G2MYT|414
-1792312612|https://www.flipkart.com/sandeep-enterprises-anarkali-gown/p/itm2288ce4a90f50?pid=GWNH9PNQZ3VXF5U9|435
-1792312615|https://www.flipkart.com/sfkanjari-anarkali-gown/p/itmc5bc0d9b074f4?pid=GWNH9HNNFEYQHSD5|318
-1792312619|https://www.flipkart.com/hanumant-enterprise-anarkali-gown/p/itm28b9e0787a8b8?pid=GWNHM9Y9CHCGNWCK|380
-1792312623|https://www.flipkart.com/dhyan-creation-online-anarkali-gown/p/itme27eba8a98f20?pid=GWNH2WXW4S3C2HHT|288
-1792312626|https://www.flipkart.com/rudraaksha-anarkali-gown/p/itmfae09749bd214?pid=GWNGAAZS4NWFSHEZ|411
 1792312630|https://www.flipkart.com/shyam-ki-nagri-anarkali-gown/p/itm43c38cfed559f?pid=GWNGCCS4VTR8QUZW|302
 1792312633|https://www.flipkart.com/shanoor-textile-anarkali-gown/p/itm4df23ed8c79e0?pid=GWNGZDE9GPQ7YYAT|349
 1792312637|https://www.flipkart.com/luminary-anarkali-gown/p/itmd15497f664c6d?pid=GWNHHHXCMQHAFTUD|291
@@ -298,3 +290,11 @@
 1792389073|https://www.flipkart.com/jc-clothing-flared-a-line-gown/p/itm9f7d35a83fc37?pid=GWNGH8CQHDE8WF7C|425
 1792389076|https://www.flipkart.com/dharma-fashion-anarkali-gown/p/itmb4fa031553843?pid=GWNHK8DVGG2NF2HV|416
 1792389080|https://www.flipkart.com/adhi-shree-fashion-anarkali-gown/p/itm7bdfcf09e7972?pid=GWNHHZ272YDMNDFR|389
+1792412455|https://www.flipkart.com/madfury-anarkali-gown/p/itmf7f8fd129da36?pid=GWNHF8YYEMHVUPYB|320
+1792412459|https://www.flipkart.com/murli-kurti-flared-a-line-gown/p/itm300924e3d1bc4?pid=GWNGHU2J2VPETWXG|364
+1792412463|https://www.flipkart.com/westorio-anarkali-gown/p/itm570b6a75aa109?pid=GWNHM8T7FT5G2MYT|414
+1792412467|https://www.flipkart.com/sandeep-enterprises-anarkali-gown/p/itm2288ce4a90f50?pid=GWNH9PNQZ3VXF5U9|435
+1792412470|https://www.flipkart.com/sfkanjari-anarkali-gown/p/itmc5bc0d9b074f4?pid=GWNH9HNNFEYQHSD5|318
+1792412474|https://www.flipkart.com/hanumant-enterprise-anarkali-gown/p/itm28b9e0787a8b8?pid=GWNHM9Y9CHCGNWCK|380
+1792412478|https://www.flipkart.com/dhyan-creation-online-anarkali-gown/p/itme27eba8a98f20?pid=GWNH2WXW4S3C2HHT|288
+1792412481|https://www.flipkart.com/rudraaksha-anarkali-gown/p/itmfae09749bd214?pid=GWNGAAZS4NWFSHEZ|411
